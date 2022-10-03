@@ -1,0 +1,25 @@
+.page{
+    background-image: url(./download.jpg);
+    font-weight: bolder;
+    height: 650px; 
+    color: white; 
+}
+.header{
+    height: 50px;
+    background-color: black;
+    text-align: center;
+    word-spacing: 2cm;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+h2{
+    color: blue;
+}
+a:hover{
+    color: red;
+}
+.vis{
+    color: black;
+}
